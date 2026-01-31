@@ -1,14 +1,6 @@
 ---
 name: monkey
 description: Guide for configuring Monkey testing on devices. Use when helping beginners set up Monkey testing or when troubleshooting issues that require specific debug configurations.
-argument-hint: [issue-type]
-disable-model-invocation: false
-user-invocable: true
-allowed-tools: Read, Grep, Bash
-model: claude-3-5-sonnet
-context: inline
-agent: Explore
-hooks: {}
 ---
 
 # Monkey Testing Configuration Guide
